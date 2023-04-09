@@ -26,7 +26,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<sonar.host.url>http://43.205.198.157:9000/</sonar.host.url>
-		<sonar.login>squ_b950dae9777f8d41168ec348507c6091d1bdb234</sonar.login>
+		<sonar.login>squ_0bddc55f8c838e05fa395af127407952420125fe</sonar.login>
 	</properties>
 
 	<dependencies>
